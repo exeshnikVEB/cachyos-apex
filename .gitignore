@@ -1,0 +1,12 @@
+# Temporary files
+*~
+*.bak
+*.tmp
+.DS_Store
+
+# User-specific local data that might contain secrets (just in case)
+**/kde-backup-*
+secrets*
+*.key
+*.token
+*.conf.private

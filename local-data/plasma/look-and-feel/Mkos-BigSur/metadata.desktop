@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Mkos-BigSur
+Comment=heme of macos big sur
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Email=zayronxio@hotmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Name=Mkos-BigSur
+X-KDE-PluginInfo-Website=Mkos-BigSur.com
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1408712,kns://plasma-themes.knsrc/api.kde-look.org/1408717,kns://aurorae.knsrc/api.kde-look.org/1408711,kns://wallpaper.knsrc/api.kde-look.org/1409728,kns://wallpaper.knsrc/api.kde-look.org/1409728,kns://wallpaper.knsrc/api.kde-look.org/1459313,kns://sddmtheme.knsrc/api.kde-look.org/1398839,kns://icons.knsrc/api.kde-look.org/1400021,kns://plasmoids.knsrc/api.kde-look.org/1402942,kns://plasmoids.knsrc/api.kde-look.org/1916655,kns://plasmoids.knsrc/api.kde-look.org/1269296,kns://plasmoids.knsrc/api.kde-look.org/1384156,kns://plasmoids.knsrc/api.kde-look.org/1973454,kns://plasmoids.knsrc/api.kde-look.org/1295376,kns://plasmoids.knsrc/api.kde-look.org/1473016,kns://kwinswitcher.knsrc/api.kde-look.org/1327319,kns://plasmoids.knsrc/api.kde-look.org/2113353
