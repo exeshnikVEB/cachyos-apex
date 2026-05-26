@@ -108,7 +108,7 @@ ForegroundVisited=120,120,120
 ColorSchemeHash=9f63c7711a13123582e720791ea0f8c0172977d2
 
 [KDE]
-AnimationDurationFactor=0.25
+AnimationDurationFactor=1.0
 LookAndFeelPackage=com.github.yeyushengfan258.McSur-dark
 contrast=4
 frameContrast=0.2
